@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(255, 255, 255);
+    margin: 1%;
+}
+div.header{
+    text-align: center;  
+    text-align: center;  
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(27, 27, 93);
+   
+}
+
+div.header, h1{
+  text-align: center;  
+  font-family: 'Times New Roman', Times, serif;
+  background-color: rgb(27, 27, 93);
+  color: aliceblue;
+}
+
+div.links, a{
+    align-self: block;
+    color: aliceblue;
+    font-size: larger;
+    margin: 2% 2%;
+}
+
+table{
+    border: black solid 1px;
+}
+
+tr, td{
+    text-align: center;
+    font-size: small;
+    padding: 1px;
+    border: black solid 1px;
+}
+
+footer{
+    margin-top: 10%;
+    background-color: rgb(27, 27, 93);
+    padding: 1%;
+}
+
+footer, p{
+    text-align: center;
+    color: aliceblue;
+}
+
+div.chart{
+   padding-left: 10%; 
+}
